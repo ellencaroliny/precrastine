@@ -1,4 +1,4 @@
-# Precrastine-se - Complete Task Management and Life Balance App
+# Precrastine-se -
 
 Um aplicativo completo de gerenciamento de tarefas e equilíbrio de vida, desenvolvido com React + TypeScript no frontend e Python Flask no backend.
 
@@ -198,8 +198,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 - [ ] Integração com calendários
 - [ ] Relatórios avançados
 - [ ] Compartilhamento de tarefas
-- [ ] App mobile nativo
 
----
 
 **Desenvolvido com ❤️ para ajudar você a vencer a procrastinação e equilibrar sua vida!**
