@@ -5,12 +5,10 @@ Um aplicativo completo de gerenciamento de tarefas e equilíbrio de vida, desenv
 ## 🚀 Funcionalidades
 
 ### ✅ Gerenciamento de Tarefas
-- **Quadro Kanban** com drag & drop
 - **Priorização** (Alta, Média, Baixa)
 - **Categorização** por áreas
 - **Datas de vencimento**
 - **Busca global** em tempo real
-- **Filtros avançados**
 - **Estatísticas** de produtividade
 
 ### 🎯 Roda da Vida
