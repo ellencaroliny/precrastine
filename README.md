@@ -188,11 +188,6 @@ npm run build
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 🎯 Roadmap
-
-- [ ] Notificações push
-- [ ] Sincronização offline
-- [ ] Temas personalizáveis
 - [ ] Integração com calendários
 - [ ] Relatórios avançados
 - [ ] Compartilhamento de tarefas
